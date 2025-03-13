@@ -3,3 +3,4 @@ dist/
 *.log
 build/
 .DS_Store
+tmp/
