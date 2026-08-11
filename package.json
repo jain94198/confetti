@@ -1,6 +1,6 @@
 {
   "name": "confetti",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Confetti \u2014 one VS Code extension for toml, yaml, ini, nginx, dotenv, gitignore, hosts, and 16+ config files. Local, fast, no telemetry.",
   "main": "src/index.ts",
   "scripts": {
